@@ -1,5 +1,5 @@
 {
-    "name": "breuermarcel/stockify",
+    "name": "breuermarcel/markets-api",
     "description": "",
     "keywords": [
         "breuermarcel",
@@ -7,7 +7,7 @@
         "api"
     ],
     "license": "MIT",
-    "homepage": "https://github.com/breuermarcel/stockify",
+    "homepage": "https://github.com/breuermarcel/markets-api",
     "type": "library",
     "authors": [
         {

@@ -6,7 +6,7 @@
 
 Clone repository into your packages' folder:
 ```bash
-git clone https://github.com/breuermarcel/stockify.git
+git clone https://github.com/breuermarcel/markets-api.git
 ```
 
 Define your package repositories: dev
@@ -24,7 +24,7 @@ Define your package repositories: dev
 
 Require package:
 ```bash
-composer require breuermarcel/stockify 
+composer require breuermarcel/markets-api 
 ```
 
 Migrate database:
